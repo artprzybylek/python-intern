@@ -41,7 +41,7 @@ Finally, total power from phrases: 10 + 37 = 47
 
 ## Task 2
 Used modules: sys, re, csv, django - for validation of URL, datetime - for validation of datetime string.  
-Functions in file validate.py check input validation. File page_report.py is for generating report.
+Functions in file validate.py check input validation. File page_report.py is for generating report.  
 Typical usage for generating traffic report:
 ```
 python page_report.py today.log > report.csv
